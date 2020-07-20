@@ -6,7 +6,7 @@ gem 'middleman-deploy', '>= 2.0.0.pre.alpha' # Deploy site
 
 gem 'therubyracer'   # faster ExecJS
 gem 'oj', '>= 2.10.4'           # faster JSON
-gem 'kramdown', '>= 1.9.0'     # faster ExecJS
+gem 'kramdown', '>= 2.3.0' # faster ExecJS
 gem 'rake'
 
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
