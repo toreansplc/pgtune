@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'middleman', '>= 4.2'
+gem 'middleman', '>= 4.3.8'
 gem 'middleman-minify-html', '>= 3.4.1' # min html
 gem 'middleman-deploy', '>= 2.0.0.pre.alpha' # Deploy site
 
